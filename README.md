@@ -1,4 +1,4 @@
-Hello, I´m Felipe Liberal, software developer, and i designed this game just to have fun. 
-The important part of coding for me is to over write what life expected for me. 
-If you want to contribute with the code, just have fun and try it.
-I used JS,CSS,HTML. 
+Hello! I’m Felipe Liberal, a software developer, and I created this game just for fun. 
+For me, coding is about rewriting what life expected from me. 
+If you’d like to contribute, jump in, experiment, and have fun! 
+I built it using JavaScript, CSS, and HTML.
